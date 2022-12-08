@@ -1,0 +1,1722 @@
+parameters:
+epoches: 2,batchSize: 4,lr: 0.0001
+train loss after 1 epochs: 0.07763504070597212
+val loss after 1 epochs: 0.027008302169157467
+train loss after 2 epochs: 0.024336857943076776
+val loss after 2 epochs: 0.020570015839080406
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 2,batchSize: 4,lr: 0.001
+train loss after 1 epochs: 0.03235959726504034
+val loss after 1 epochs: 0.01878971981721952
+train loss after 2 epochs: 0.011970355278883568
+val loss after 2 epochs: 0.011681312838667392
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 2,batchSize: 4,lr: 0.01
+train loss after 1 epochs: 0.5763383654403686
+val loss after 1 epochs: 0.5760116553544998
+train loss after 2 epochs: 0.5762605325412751
+val loss after 2 epochs: 0.5760009698152542
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 2,batchSize: 4,lr: 0.1
+train loss after 1 epochs: 0.5921103184652329
+val loss after 1 epochs: 0.5859326916098595
+train loss after 2 epochs: 0.5848022358083725
+val loss after 2 epochs: 0.5828880845665931
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 2,batchSize: 8,lr: 0.0001
+train loss after 1 epochs: 0.04815081451334176
+val loss after 1 epochs: 0.018350394677603618
+train loss after 2 epochs: 0.014583320377551718
+val loss after 2 epochs: 0.010911951524604228
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 2,batchSize: 8,lr: 0.001
+train loss after 1 epochs: 0.018070643072676976
+val loss after 1 epochs: 0.007208067485422225
+train loss after 2 epochs: 0.006273010132343943
+val loss after 2 epochs: 0.005695074327233852
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 2,batchSize: 8,lr: 0.01
+train loss after 1 epochs: 0.28794762330532075
+val loss after 1 epochs: 0.28820721249580383
+train loss after 2 epochs: 0.2879735440301895
+val loss after 2 epochs: 0.28834793763160704
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 2,batchSize: 8,lr: 0.1
+train loss after 1 epochs: 0.3023122712945938
+val loss after 1 epochs: 0.2910472120523453
+train loss after 2 epochs: 0.29103731708049774
+val loss after 2 epochs: 0.29030005013942717
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 2,batchSize: 16,lr: 0.0001
+train loss after 1 epochs: 0.03129395004102029
+val loss after 1 epochs: 0.010189578881580383
+train loss after 2 epochs: 0.008613839126247913
+val loss after 2 epochs: 0.006582105461205356
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 2,batchSize: 16,lr: 0.001
+train loss after 1 epochs: 0.01076450014072121
+val loss after 1 epochs: 0.0043910243323392936
+train loss after 2 epochs: 0.003354345648964809
+val loss after 2 epochs: 0.0030741817029876985
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 2,batchSize: 16,lr: 0.01
+train loss after 1 epochs: 0.14394806931495666
+val loss after 1 epochs: 0.14387652959823607
+train loss after 2 epochs: 0.143954965634346
+val loss after 2 epochs: 0.1440535781621933
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 2,batchSize: 16,lr: 0.1
+train loss after 1 epochs: 0.14636654753208161
+val loss after 1 epochs: 0.14538707036972046
+train loss after 2 epochs: 0.14495843226909638
+val loss after 2 epochs: 0.1454812537431717
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 2,batchSize: 32,lr: 0.0001
+train loss after 1 epochs: 0.021538574789464474
+val loss after 1 epochs: 0.006639110452309251
+train loss after 2 epochs: 0.005556538407374173
+val loss after 2 epochs: 0.004295377068966627
+Accuracy of the network on the 10000 test images: 95 %
+parameters:
+epoches: 2,batchSize: 32,lr: 0.001
+train loss after 1 epochs: 0.006614838697500527
+val loss after 1 epochs: 0.0024990283142076806
+train loss after 2 epochs: 0.001918506962941028
+val loss after 2 epochs: 0.00210180591319222
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 2,batchSize: 32,lr: 0.01
+train loss after 1 epochs: 0.006797195633887313
+val loss after 1 epochs: 0.003212532149418257
+train loss after 2 epochs: 0.0035263391013094225
+val loss after 2 epochs: 0.0030238508303184063
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 2,batchSize: 32,lr: 0.1
+train loss after 1 epochs: 0.07539026554584503
+val loss after 1 epochs: 0.07247304246425629
+train loss after 2 epochs: 0.07234339289665222
+val loss after 2 epochs: 0.07244338185787201
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 2,batchSize: 64,lr: 0.0001
+train loss after 1 epochs: 0.015052200637310744
+val loss after 1 epochs: 0.004673448358476162
+train loss after 2 epochs: 0.0036657409991323947
+val loss after 2 epochs: 0.002848214370664209
+Accuracy of the network on the 10000 test images: 94 %
+parameters:
+epoches: 2,batchSize: 64,lr: 0.001
+train loss after 1 epochs: 0.0043641391327045856
+val loss after 1 epochs: 0.0015950630558654666
+train loss after 2 epochs: 0.0011396524431556464
+val loss after 2 epochs: 0.0008923892380320467
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 2,batchSize: 64,lr: 0.01
+train loss after 1 epochs: 0.004033325191922486
+val loss after 1 epochs: 0.0014794559274800122
+train loss after 2 epochs: 0.001583175038471818
+val loss after 2 epochs: 0.0017526980053633452
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 2,batchSize: 64,lr: 0.1
+train loss after 1 epochs: 0.044182425060272215
+val loss after 1 epochs: 0.0363188756942749
+train loss after 2 epochs: 0.036127804780006406
+val loss after 2 epochs: 0.036217072224617
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 5,batchSize: 4,lr: 0.0001
+train loss after 1 epochs: 0.07730986845417688
+val loss after 1 epochs: 0.025724524298740652
+train loss after 2 epochs: 0.024160781781310724
+val loss after 2 epochs: 0.018688061957413266
+train loss after 3 epochs: 0.017672523361358158
+val loss after 3 epochs: 0.015210604044609135
+train loss after 4 epochs: 0.013904360054796084
+val loss after 4 epochs: 0.011674998677140183
+train loss after 5 epochs: 0.01147844292280597
+val loss after 5 epochs: 0.01791169893498054
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 5,batchSize: 4,lr: 0.001
+train loss after 1 epochs: 0.03250183047705711
+val loss after 1 epochs: 0.012662685724701674
+train loss after 2 epochs: 0.012632118148416862
+val loss after 2 epochs: 0.012707758078615553
+train loss after 3 epochs: 0.00930514004530456
+val loss after 3 epochs: 0.010059223526386666
+train loss after 4 epochs: 0.007369774977881103
+val loss after 4 epochs: 0.008204775379121499
+train loss after 5 epochs: 0.006016728151573946
+val loss after 5 epochs: 0.008763884981987241
+Accuracy of the network on the 10000 test images: 99 %
+parameters:
+epoches: 5,batchSize: 4,lr: 0.01
+train loss after 1 epochs: 0.5761910945749282
+val loss after 1 epochs: 0.5767403178691864
+train loss after 2 epochs: 0.5763407510089874
+val loss after 2 epochs: 0.5761605734825135
+train loss after 3 epochs: 0.5762675089550018
+val loss after 3 epochs: 0.5756022738456726
+train loss after 4 epochs: 0.5763177418279648
+val loss after 4 epochs: 0.5770061464309693
+train loss after 5 epochs: 0.5761218061780929
+val loss after 5 epochs: 0.5758077730178833
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 5,batchSize: 4,lr: 0.1
+train loss after 1 epochs: 0.5886553984904289
+val loss after 1 epochs: 0.5857884517908096
+train loss after 2 epochs: 0.5845503969621658
+val loss after 2 epochs: 0.5809985661268234
+train loss after 3 epochs: 0.5845282045507431
+val loss after 3 epochs: 0.586249027979374
+train loss after 4 epochs: 0.5848119737410545
+val loss after 4 epochs: 0.5858262877464294
+train loss after 5 epochs: 0.5843141094779968
+val loss after 5 epochs: 0.5827319541096687
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 5,batchSize: 8,lr: 0.0001
+train loss after 1 epochs: 0.04905283885557438
+val loss after 1 epochs: 0.017157210126932478
+train loss after 2 epochs: 0.01445382281283033
+val loss after 2 epochs: 0.013781986840818354
+train loss after 3 epochs: 0.010564203271486623
+val loss after 3 epochs: 0.008453927738950005
+train loss after 4 epochs: 0.008564874511834714
+val loss after 4 epochs: 0.00763660030697647
+train loss after 5 epochs: 0.007205920569471527
+val loss after 5 epochs: 0.006165742687903184
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 5,batchSize: 8,lr: 0.001
+train loss after 1 epochs: 0.018203156151382228
+val loss after 1 epochs: 0.007038270411753911
+train loss after 2 epochs: 0.006291925716432488
+val loss after 2 epochs: 0.005417497855305919
+train loss after 3 epochs: 0.004585581871710703
+val loss after 3 epochs: 0.003870229235231247
+train loss after 4 epochs: 0.0035251813219474345
+val loss after 4 epochs: 0.005234462000524991
+train loss after 5 epochs: 0.0028509602671344995
+val loss after 5 epochs: 0.0040480148301353875
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 5,batchSize: 8,lr: 0.01
+train loss after 1 epochs: 0.03329952481972789
+val loss after 1 epochs: 0.022289476562681376
+train loss after 2 epochs: 0.02298641004481452
+val loss after 2 epochs: 0.022695091407913467
+train loss after 3 epochs: 0.02234273989351281
+val loss after 3 epochs: 0.031352666141843566
+train loss after 4 epochs: 0.022915537184827518
+val loss after 4 epochs: 0.020645732589981935
+train loss after 5 epochs: 0.022157713178069006
+val loss after 5 epochs: 0.023452659091917485
+Accuracy of the network on the 10000 test images: 94 %
+parameters:
+epoches: 5,batchSize: 8,lr: 0.1
+train loss after 1 epochs: 0.29586184881210326
+val loss after 1 epochs: 0.2885568763256073
+train loss after 2 epochs: 0.290957348780632
+val loss after 2 epochs: 0.2893410833358765
+train loss after 3 epochs: 0.29085991309404374
+val loss after 3 epochs: 0.29379480266571045
+train loss after 4 epochs: 0.29089810911893843
+val loss after 4 epochs: 0.2908435510158539
+train loss after 5 epochs: 0.29090838654518125
+val loss after 5 epochs: 0.2895839107036591
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 5,batchSize: 16,lr: 0.0001
+train loss after 1 epochs: 0.03157347917079926
+val loss after 1 epochs: 0.010518042482994497
+train loss after 2 epochs: 0.008707956609085668
+val loss after 2 epochs: 0.0070672371462685984
+train loss after 3 epochs: 0.0062773418208875225
+val loss after 3 epochs: 0.005187133584881667
+train loss after 4 epochs: 0.005102085259248852
+val loss after 4 epochs: 0.00430508793272893
+train loss after 5 epochs: 0.004428881371249445
+val loss after 5 epochs: 0.0040336703381908595
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 5,batchSize: 16,lr: 0.001
+train loss after 1 epochs: 0.010842614118825877
+val loss after 1 epochs: 0.004010539021977456
+train loss after 2 epochs: 0.0032841271566315844
+val loss after 2 epochs: 0.0024318497362924973
+train loss after 3 epochs: 0.002444002497827423
+val loss after 3 epochs: 0.002046809395211312
+train loss after 4 epochs: 0.00187758830473731
+val loss after 4 epochs: 0.0021974300278617648
+train loss after 5 epochs: 0.0015148376080690333
+val loss after 5 epochs: 0.002182343652434315
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 5,batchSize: 16,lr: 0.01
+train loss after 1 epochs: 0.1439478229188919
+val loss after 1 epochs: 0.14386671423912048
+train loss after 2 epochs: 0.143939004073143
+val loss after 2 epochs: 0.14397385613918304
+train loss after 3 epochs: 0.14395018456459047
+val loss after 3 epochs: 0.1439555563926697
+train loss after 4 epochs: 0.14394625138282777
+val loss after 4 epochs: 0.14390531682968138
+train loss after 5 epochs: 0.14394316842556
+val loss after 5 epochs: 0.14399789438247682
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 5,batchSize: 16,lr: 0.1
+train loss after 1 epochs: 0.14878288103580475
+val loss after 1 epochs: 0.14437640521526338
+train loss after 2 epochs: 0.14506535403728485
+val loss after 2 epochs: 0.1448189346075058
+train loss after 3 epochs: 0.14499780297756196
+val loss after 3 epochs: 0.14623020868301392
+train loss after 4 epochs: 0.14495850442409516
+val loss after 4 epochs: 0.1449018123149872
+train loss after 5 epochs: 0.145015997133255
+val loss after 5 epochs: 0.14502700538635255
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 5,batchSize: 32,lr: 0.0001
+train loss after 1 epochs: 0.021279079459831117
+val loss after 1 epochs: 0.006414130138978362
+train loss after 2 epochs: 0.005367152089364826
+val loss after 2 epochs: 0.004318398827686906
+train loss after 3 epochs: 0.0038675424792710693
+val loss after 3 epochs: 0.0033597147257998588
+train loss after 4 epochs: 0.0031627607414778324
+val loss after 4 epochs: 0.003132837875466794
+train loss after 5 epochs: 0.0027082274166960268
+val loss after 5 epochs: 0.0023952179272659123
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 5,batchSize: 32,lr: 0.001
+train loss after 1 epochs: 0.006709939743522555
+val loss after 1 epochs: 0.002380813154648058
+train loss after 2 epochs: 0.0019113743114075623
+val loss after 2 epochs: 0.0014581116508110426
+train loss after 3 epochs: 0.0013611920994188403
+val loss after 3 epochs: 0.0012346657042657172
+train loss after 4 epochs: 0.001089899398099078
+val loss after 4 epochs: 0.0012999467812507646
+train loss after 5 epochs: 0.0008358732522057835
+val loss after 5 epochs: 0.0008973628157458734
+Accuracy of the network on the 10000 test images: 99 %
+parameters:
+epoches: 5,batchSize: 32,lr: 0.01
+train loss after 1 epochs: 0.00980258343210444
+val loss after 1 epochs: 0.005062989150173962
+train loss after 2 epochs: 0.005381106885205955
+val loss after 2 epochs: 0.004567194598680362
+train loss after 3 epochs: 0.0049670531308627685
+val loss after 3 epochs: 0.0039338710876181725
+train loss after 4 epochs: 0.00482292789112893
+val loss after 4 epochs: 0.004496948231663555
+train loss after 5 epochs: 0.004581180772844236
+val loss after 5 epochs: 0.0038279147876892237
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 5,batchSize: 32,lr: 0.1
+train loss after 1 epochs: 0.07775775822162628
+val loss after 1 epochs: 0.07231387145519257
+train loss after 2 epochs: 0.07235245285511017
+val loss after 2 epochs: 0.07225878348350524
+train loss after 3 epochs: 0.07235475822925568
+val loss after 3 epochs: 0.07229622743129731
+train loss after 4 epochs: 0.07230485747337341
+val loss after 4 epochs: 0.07222396245002746
+train loss after 5 epochs: 0.0723562648153305
+val loss after 5 epochs: 0.07233024966716767
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 5,batchSize: 64,lr: 0.0001
+train loss after 1 epochs: 0.015074795125722885
+val loss after 1 epochs: 0.004515278808772564
+train loss after 2 epochs: 0.0035839768006652594
+val loss after 2 epochs: 0.0029247107435017823
+train loss after 3 epochs: 0.002522580078095198
+val loss after 3 epochs: 0.002142029617168009
+train loss after 4 epochs: 0.0020051618879288434
+val loss after 4 epochs: 0.001867520185559988
+train loss after 5 epochs: 0.001725487600490451
+val loss after 5 epochs: 0.0016167465106584132
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 5,batchSize: 64,lr: 0.001
+train loss after 1 epochs: 0.004311068489421159
+val loss after 1 epochs: 0.0011852021543309092
+train loss after 2 epochs: 0.0010945953590190038
+val loss after 2 epochs: 0.0009159206484444439
+train loss after 3 epochs: 0.0007792585448594763
+val loss after 3 epochs: 0.0009612581092980691
+train loss after 4 epochs: 0.0006128440274903551
+val loss after 4 epochs: 0.0006367544411972631
+train loss after 5 epochs: 0.0005060108687111642
+val loss after 5 epochs: 0.0005657065346371383
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 5,batchSize: 64,lr: 0.01
+train loss after 1 epochs: 0.0027044474259065466
+val loss after 1 epochs: 0.0014057081939652563
+train loss after 2 epochs: 0.0010391012513136957
+val loss after 2 epochs: 0.0009995787641266362
+train loss after 3 epochs: 0.0009371231706970138
+val loss after 3 epochs: 0.0009300810497370549
+train loss after 4 epochs: 0.0009582262154831551
+val loss after 4 epochs: 0.0013246423464384862
+train loss after 5 epochs: 0.0008844649949783343
+val loss after 5 epochs: 0.0010356194242718629
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 5,batchSize: 64,lr: 0.1
+train loss after 1 epochs: 0.04160426414966583
+val loss after 1 epochs: 0.03626996245384216
+train loss after 2 epochs: 0.03614361745357513
+val loss after 2 epochs: 0.03625369513034821
+train loss after 3 epochs: 0.03614755191326141
+val loss after 3 epochs: 0.03638060667514801
+train loss after 4 epochs: 0.03611612234592438
+val loss after 4 epochs: 0.03636180574893951
+train loss after 5 epochs: 0.03611798034191131
+val loss after 5 epochs: 0.03629294533729553
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 10,batchSize: 4,lr: 0.0001
+train loss after 1 epochs: 0.07691407803983147
+val loss after 1 epochs: 0.033241595887814036
+train loss after 2 epochs: 0.023764441024937515
+val loss after 2 epochs: 0.01641539124772771
+train loss after 3 epochs: 0.0174293320739894
+val loss after 3 epochs: 0.01408354078670618
+train loss after 4 epochs: 0.01409543195736323
+val loss after 4 epochs: 0.01340339306399394
+train loss after 5 epochs: 0.01182255675440318
+val loss after 5 epochs: 0.011577776488689665
+train loss after 6 epochs: 0.009974422138692358
+val loss after 6 epochs: 0.009270776139465246
+train loss after 7 epochs: 0.008408420114044305
+val loss after 7 epochs: 0.010302453848730181
+train loss after 8 epochs: 0.007357893261260412
+val loss after 8 epochs: 0.01064794397740896
+train loss after 9 epochs: 0.006688361785524803
+val loss after 9 epochs: 0.009106706535241309
+train loss after 10 epochs: 0.005843020907805594
+val loss after 10 epochs: 0.008563300994302298
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 4,lr: 0.001
+train loss after 1 epochs: 0.03175388554743245
+val loss after 1 epochs: 0.013529379889279403
+train loss after 2 epochs: 0.012458648314588313
+val loss after 2 epochs: 0.008768443463662573
+train loss after 3 epochs: 0.009299994837802293
+val loss after 3 epochs: 0.009324718514251784
+train loss after 4 epochs: 0.007619388958060276
+val loss after 4 epochs: 0.008550786524961836
+train loss after 5 epochs: 0.00609608428704953
+val loss after 5 epochs: 0.008478632138763004
+train loss after 6 epochs: 0.005630465253049437
+val loss after 6 epochs: 0.0076688515975289594
+train loss after 7 epochs: 0.0052815857308567875
+val loss after 7 epochs: 0.006810353558831182
+train loss after 8 epochs: 0.004661203046217988
+val loss after 8 epochs: 0.009610779050872887
+train loss after 9 epochs: 0.004369306605267345
+val loss after 9 epochs: 0.01084334496260428
+train loss after 10 epochs: 0.003909160104220865
+val loss after 10 epochs: 0.010765486073010045
+Accuracy of the network on the 10000 test images: 99 %
+parameters:
+epoches: 10,batchSize: 4,lr: 0.01
+train loss after 1 epochs: 0.5763068284320831
+val loss after 1 epochs: 0.575699272608757
+train loss after 2 epochs: 0.5761791745710373
+val loss after 2 epochs: 0.576582573378086
+train loss after 3 epochs: 0.5762561669349671
+val loss after 3 epochs: 0.5759712444067001
+train loss after 4 epochs: 0.5762109942150117
+val loss after 4 epochs: 0.5759226664543152
+train loss after 5 epochs: 0.5763242537164688
+val loss after 5 epochs: 0.5756281432390213
+train loss after 6 epochs: 0.5761806808757782
+val loss after 6 epochs: 0.5763255709648132
+train loss after 7 epochs: 0.5762148190498352
+val loss after 7 epochs: 0.5756585157394409
+train loss after 8 epochs: 0.5762101627731323
+val loss after 8 epochs: 0.5757663806676865
+train loss after 9 epochs: 0.5762337493276596
+val loss after 9 epochs: 0.5757988345146179
+train loss after 10 epochs: 0.5762445524263382
+val loss after 10 epochs: 0.5761982545375824
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 10,batchSize: 4,lr: 0.1
+train loss after 1 epochs: 0.5996086445116997
+val loss after 1 epochs: 0.5825273773908615
+train loss after 2 epochs: 0.5845464946007729
+val loss after 2 epochs: 0.586879010272026
+train loss after 3 epochs: 0.5849934576129914
+val loss after 3 epochs: 0.588972988152504
+train loss after 4 epochs: 0.5846431978368759
+val loss after 4 epochs: 0.5838653351545334
+train loss after 5 epochs: 0.5844966095542907
+val loss after 5 epochs: 0.5813261643886566
+train loss after 6 epochs: 0.5845895637512207
+val loss after 6 epochs: 0.5842517361998558
+train loss after 7 epochs: 0.5847245105886459
+val loss after 7 epochs: 0.5942888301968574
+train loss after 8 epochs: 0.584482364590168
+val loss after 8 epochs: 0.5785834468603134
+train loss after 9 epochs: 0.5848562057805061
+val loss after 9 epochs: 0.5813920545458794
+train loss after 10 epochs: 0.5847136181926728
+val loss after 10 epochs: 0.5817667441129685
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 10,batchSize: 8,lr: 0.0001
+train loss after 1 epochs: 0.049357256142386466
+val loss after 1 epochs: 0.016742890686751343
+train loss after 2 epochs: 0.0147107825424365
+val loss after 2 epochs: 0.011013719579720055
+train loss after 3 epochs: 0.010851426792800776
+val loss after 3 epochs: 0.010261911320216314
+train loss after 4 epochs: 0.008786712762221942
+val loss after 4 epochs: 0.007080983624777219
+train loss after 5 epochs: 0.007510349957473481
+val loss after 5 epochs: 0.006312446909540449
+train loss after 6 epochs: 0.006471623306706751
+val loss after 6 epochs: 0.006851156607273333
+train loss after 7 epochs: 0.0057664607134138715
+val loss after 7 epochs: 0.005368605296337591
+train loss after 8 epochs: 0.0050976953999211675
+val loss after 8 epochs: 0.0055165198000013335
+train loss after 9 epochs: 0.004615214238793105
+val loss after 9 epochs: 0.005564446266163759
+train loss after 10 epochs: 0.004136027889410298
+val loss after 10 epochs: 0.005750454773212596
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 8,lr: 0.001
+train loss after 1 epochs: 0.019071001017229684
+val loss after 1 epochs: 0.009534938106458685
+train loss after 2 epochs: 0.006440936513110895
+val loss after 2 epochs: 0.006060796624444356
+train loss after 3 epochs: 0.004810662021051662
+val loss after 3 epochs: 0.004398677532122451
+train loss after 4 epochs: 0.0037947310050446604
+val loss after 4 epochs: 0.006292385170062579
+train loss after 5 epochs: 0.00299775390775776
+val loss after 5 epochs: 0.007081853274332667
+train loss after 6 epochs: 0.0024745396680847047
+val loss after 6 epochs: 0.0049175017879205
+train loss after 7 epochs: 0.00219563900161584
+val loss after 7 epochs: 0.004675212577929674
+train loss after 8 epochs: 0.0017753952031251755
+val loss after 8 epochs: 0.004698800652363838
+train loss after 9 epochs: 0.0017063190784276428
+val loss after 9 epochs: 0.0049755702373762214
+train loss after 10 epochs: 0.0014445441458105488
+val loss after 10 epochs: 0.006480948368158224
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 8,lr: 0.01
+train loss after 1 epochs: 0.2880476081943512
+val loss after 1 epochs: 0.28811041622161865
+train loss after 2 epochs: 0.2880054964828491
+val loss after 2 epochs: 0.2877076325416565
+train loss after 3 epochs: 0.28798479146957395
+val loss after 3 epochs: 0.287766557264328
+train loss after 4 epochs: 0.28803488581180575
+val loss after 4 epochs: 0.28812164289951325
+train loss after 5 epochs: 0.2880071660709381
+val loss after 5 epochs: 0.2879204897880554
+train loss after 6 epochs: 0.28800334057331084
+val loss after 6 epochs: 0.2879145992517471
+train loss after 7 epochs: 0.28801818799972534
+val loss after 7 epochs: 0.2883241175889969
+train loss after 8 epochs: 0.2879546093463898
+val loss after 8 epochs: 0.2880949196577072
+train loss after 9 epochs: 0.2879782106924057
+val loss after 9 epochs: 0.288274081993103
+train loss after 10 epochs: 0.2880024839019775
+val loss after 10 epochs: 0.28786240870952606
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 10,batchSize: 8,lr: 0.1
+train loss after 1 epochs: 0.2976899287891388
+val loss after 1 epochs: 0.2887848861694336
+train loss after 2 epochs: 0.2909597401213646
+val loss after 2 epochs: 0.2908475567340851
+train loss after 3 epochs: 0.2909871864748001
+val loss after 3 epochs: 0.29119593884944917
+train loss after 4 epochs: 0.2909642329549789
+val loss after 4 epochs: 0.29454047791957855
+train loss after 5 epochs: 0.29096978262662887
+val loss after 5 epochs: 0.29179212155342105
+train loss after 6 epochs: 0.2909140712070465
+val loss after 6 epochs: 0.289877929520607
+train loss after 7 epochs: 0.2907971841621399
+val loss after 7 epochs: 0.29224999253749845
+train loss after 8 epochs: 0.2908704449391365
+val loss after 8 epochs: 0.291310028886795
+train loss after 9 epochs: 0.29092946996212005
+val loss after 9 epochs: 0.2886801747083664
+train loss after 10 epochs: 0.29095350078105925
+val loss after 10 epochs: 0.2902458095550537
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 10,batchSize: 16,lr: 0.0001
+train loss after 1 epochs: 0.031862814281126486
+val loss after 1 epochs: 0.010361253180727363
+train loss after 2 epochs: 0.008657111199756618
+val loss after 2 epochs: 0.006462760568468366
+train loss after 3 epochs: 0.006288106270250864
+val loss after 3 epochs: 0.005064833865273977
+train loss after 4 epochs: 0.0052017974318168125
+val loss after 4 epochs: 0.004645422307716217
+train loss after 5 epochs: 0.0044444157221156634
+val loss after 5 epochs: 0.003947277315985411
+train loss after 6 epochs: 0.003916007963546435
+val loss after 6 epochs: 0.0039117693624590175
+train loss after 7 epochs: 0.0034862090369372164
+val loss after 7 epochs: 0.003570400350159616
+train loss after 8 epochs: 0.003188796350923949
+val loss after 8 epochs: 0.004057657979620853
+train loss after 9 epochs: 0.002930909539649292
+val loss after 9 epochs: 0.003093733770091785
+train loss after 10 epochs: 0.0027021138147519377
+val loss after 10 epochs: 0.0032955984238054953
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 16,lr: 0.001
+train loss after 1 epochs: 0.011162768789183465
+val loss after 1 epochs: 0.003612458844194043
+train loss after 2 epochs: 0.0035830153981277544
+val loss after 2 epochs: 0.0026583684710101804
+train loss after 3 epochs: 0.0024314200977041765
+val loss after 3 epochs: 0.0023698944131321695
+train loss after 4 epochs: 0.0019840733680154335
+val loss after 4 epochs: 0.002178552448142
+train loss after 5 epochs: 0.0016191001656826029
+val loss after 5 epochs: 0.0020316740815105733
+train loss after 6 epochs: 0.0012310694389207266
+val loss after 6 epochs: 0.0021197899340338155
+train loss after 7 epochs: 0.0010910915642822533
+val loss after 7 epochs: 0.0024551948542162793
+train loss after 8 epochs: 0.0009109834033934487
+val loss after 8 epochs: 0.002108713094472
+train loss after 9 epochs: 0.0007518275425417902
+val loss after 9 epochs: 0.0024938003972433593
+train loss after 10 epochs: 0.0007736937352319758
+val loss after 10 epochs: 0.00219843362957964
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 16,lr: 0.01
+train loss after 1 epochs: 0.011382030829922587
+val loss after 1 epochs: 0.007935084151249612
+train loss after 2 epochs: 0.0077706426237662525
+val loss after 2 epochs: 0.00752587230266945
+train loss after 3 epochs: 0.007480985354500062
+val loss after 3 epochs: 0.007772327467098694
+train loss after 4 epochs: 0.007553803772284992
+val loss after 4 epochs: 0.011904806735785678
+train loss after 5 epochs: 0.007296730997577752
+val loss after 5 epochs: 0.00694320492540246
+train loss after 6 epochs: 0.007357313748025481
+val loss after 6 epochs: 0.006035679541603895
+train loss after 7 epochs: 0.006805911556833052
+val loss after 7 epochs: 0.008388066820433596
+train loss after 8 epochs: 0.006735794793671448
+val loss after 8 epochs: 0.009263527692905381
+train loss after 9 epochs: 0.007016243713440958
+val loss after 9 epochs: 0.007278314020587277
+train loss after 10 epochs: 0.006810958236105944
+val loss after 10 epochs: 0.007046710867178808
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 10,batchSize: 16,lr: 0.1
+train loss after 1 epochs: 0.15894141212940216
+val loss after 1 epochs: 0.14521621456146241
+train loss after 2 epochs: 0.14499264478206633
+val loss after 2 epochs: 0.1445057493686676
+train loss after 3 epochs: 0.14493722509860993
+val loss after 3 epochs: 0.14496570737361908
+train loss after 4 epochs: 0.14494390864372253
+val loss after 4 epochs: 0.14434268243312837
+train loss after 5 epochs: 0.1450136583185196
+val loss after 5 epochs: 0.14468499701023102
+train loss after 6 epochs: 0.14496551649093628
+val loss after 6 epochs: 0.14542602207660674
+train loss after 7 epochs: 0.14499995000362395
+val loss after 7 epochs: 0.1442728232860565
+train loss after 8 epochs: 0.14491560668468476
+val loss after 8 epochs: 0.1452432418823242
+train loss after 9 epochs: 0.14497283977508546
+val loss after 9 epochs: 0.14446862325668336
+train loss after 10 epochs: 0.1449730525779724
+val loss after 10 epochs: 0.14462912483215332
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 10,batchSize: 32,lr: 0.0001
+train loss after 1 epochs: 0.021115520626492797
+val loss after 1 epochs: 0.006826593452319503
+train loss after 2 epochs: 0.005443245393559336
+val loss after 2 epochs: 0.00415744488472119
+train loss after 3 epochs: 0.0039050116893206725
+val loss after 3 epochs: 0.0034548333982937036
+train loss after 4 epochs: 0.003175266950223595
+val loss after 4 epochs: 0.002657852121954784
+train loss after 5 epochs: 0.002774452897477895
+val loss after 5 epochs: 0.00235143539221026
+train loss after 6 epochs: 0.0024134924805397167
+val loss after 6 epochs: 0.002286312728584744
+train loss after 7 epochs: 0.00221238488227129
+val loss after 7 epochs: 0.0020045986225130036
+train loss after 8 epochs: 0.0020356360071874225
+val loss after 8 epochs: 0.001770304546150146
+train loss after 9 epochs: 0.0018609370694868267
+val loss after 9 epochs: 0.0017198796440381556
+train loss after 10 epochs: 0.0017303360112814698
+val loss after 10 epochs: 0.0017574777913047
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 32,lr: 0.001
+train loss after 1 epochs: 0.006712407718016766
+val loss after 1 epochs: 0.0020131254966370762
+train loss after 2 epochs: 0.001873656255467795
+val loss after 2 epochs: 0.001691379818355199
+train loss after 3 epochs: 0.0013314142438647105
+val loss after 3 epochs: 0.001722717842066777
+train loss after 4 epochs: 0.0010690638929520355
+val loss after 4 epochs: 0.0011091535496525467
+train loss after 5 epochs: 0.0008730203371801326
+val loss after 5 epochs: 0.0012982191510731355
+train loss after 6 epochs: 0.0007248306689303172
+val loss after 6 epochs: 0.0009795641442982741
+train loss after 7 epochs: 0.0006290822363014376
+val loss after 7 epochs: 0.0011593285914444096
+train loss after 8 epochs: 0.0005137135515097816
+val loss after 8 epochs: 0.0008034615540509549
+train loss after 9 epochs: 0.00043524153949021184
+val loss after 9 epochs: 0.0009327754806941811
+train loss after 10 epochs: 0.0004105583909396137
+val loss after 10 epochs: 0.0014002079352550935
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 32,lr: 0.01
+train loss after 1 epochs: 0.009401734685292467
+val loss after 1 epochs: 0.00596753769479692
+train loss after 2 epochs: 0.005483087828578427
+val loss after 2 epochs: 0.004418794369348325
+train loss after 3 epochs: 0.004921908315734472
+val loss after 3 epochs: 0.00435804814058356
+train loss after 4 epochs: 0.004682485729302279
+val loss after 4 epochs: 0.004252498517115601
+train loss after 5 epochs: 0.004523189465960022
+val loss after 5 epochs: 0.004025624450924806
+train loss after 6 epochs: 0.004454543905508472
+val loss after 6 epochs: 0.005081958002666943
+train loss after 7 epochs: 0.004306588668861077
+val loss after 7 epochs: 0.004345997819397598
+train loss after 8 epochs: 0.004261292215324938
+val loss after 8 epochs: 0.004173502649134025
+train loss after 9 epochs: 0.004052015286852256
+val loss after 9 epochs: 0.0037823527945089154
+train loss after 10 epochs: 0.003974049489009777
+val loss after 10 epochs: 0.003480804036092013
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 10,batchSize: 32,lr: 0.1
+train loss after 1 epochs: 0.07444892517566681
+val loss after 1 epochs: 0.07246957247257232
+train loss after 2 epochs: 0.07233124342918396
+val loss after 2 epochs: 0.0722398396730423
+train loss after 3 epochs: 0.07230984854698182
+val loss after 3 epochs: 0.07225186419487
+train loss after 4 epochs: 0.0723334640789032
+val loss after 4 epochs: 0.07226347773075104
+train loss after 5 epochs: 0.07235738905429841
+val loss after 5 epochs: 0.07230584914684296
+train loss after 6 epochs: 0.07234213452339172
+val loss after 6 epochs: 0.07262147603034973
+train loss after 7 epochs: 0.07236981910705566
+val loss after 7 epochs: 0.07227690556049347
+train loss after 8 epochs: 0.0723210442495346
+val loss after 8 epochs: 0.0724117350101471
+train loss after 9 epochs: 0.07231529284000397
+val loss after 9 epochs: 0.07247576971054077
+train loss after 10 epochs: 0.07232735105514526
+val loss after 10 epochs: 0.07244585478305816
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 10,batchSize: 64,lr: 0.0001
+train loss after 1 epochs: 0.01513611563116312
+val loss after 1 epochs: 0.004624787402153015
+train loss after 2 epochs: 0.0036472413469851015
+val loss after 2 epochs: 0.0027794998988509177
+train loss after 3 epochs: 0.0025191655762121083
+val loss after 3 epochs: 0.002202498633041978
+train loss after 4 epochs: 0.002031487905178219
+val loss after 4 epochs: 0.0018000813952647149
+train loss after 5 epochs: 0.0017198356021381914
+val loss after 5 epochs: 0.0015123463731259107
+train loss after 6 epochs: 0.0015051404288038612
+val loss after 6 epochs: 0.0015031103568151592
+train loss after 7 epochs: 0.0013522658803407103
+val loss after 7 epochs: 0.0012477045529522002
+train loss after 8 epochs: 0.0012346913598198443
+val loss after 8 epochs: 0.0011120847998186945
+train loss after 9 epochs: 0.0011432400084100663
+val loss after 9 epochs: 0.001086491458490491
+train loss after 10 epochs: 0.0010612712810188533
+val loss after 10 epochs: 0.0010633766639046372
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 64,lr: 0.001
+train loss after 1 epochs: 0.004507398398090154
+val loss after 1 epochs: 0.0012455307406373322
+train loss after 2 epochs: 0.0011568209122959524
+val loss after 2 epochs: 0.0007462134013650938
+train loss after 3 epochs: 0.0008190183986024932
+val loss after 3 epochs: 0.0008021386275533587
+train loss after 4 epochs: 0.000638847362025408
+val loss after 4 epochs: 0.0006741763975005597
+train loss after 5 epochs: 0.0005338489683845546
+val loss after 5 epochs: 0.0005959562602685765
+train loss after 6 epochs: 0.0004401367878256133
+val loss after 6 epochs: 0.00048696416821621824
+train loss after 7 epochs: 0.0003754883554400294
+val loss after 7 epochs: 0.0004995097508828622
+train loss after 8 epochs: 0.00032059365721739594
+val loss after 8 epochs: 0.0007316202070855069
+train loss after 9 epochs: 0.00029351981405066906
+val loss after 9 epochs: 0.0005436500572017395
+train loss after 10 epochs: 0.000256135245510668
+val loss after 10 epochs: 0.0005703202391985542
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 10,batchSize: 64,lr: 0.01
+train loss after 1 epochs: 0.0030934423563163727
+val loss after 1 epochs: 0.0013901863228529693
+train loss after 2 epochs: 0.0011811139826616273
+val loss after 2 epochs: 0.000860070486040786
+train loss after 3 epochs: 0.0010412623895224534
+val loss after 3 epochs: 0.0008516160875558853
+train loss after 4 epochs: 0.0010674096467113122
+val loss after 4 epochs: 0.0013054975517909043
+train loss after 5 epochs: 0.0010096443284547422
+val loss after 5 epochs: 0.0010227482023183257
+train loss after 6 epochs: 0.0009135864853835664
+val loss after 6 epochs: 0.0009827354600798572
+train loss after 7 epochs: 0.0009464324216566456
+val loss after 7 epochs: 0.0011839501354494132
+train loss after 8 epochs: 0.0009550364502560114
+val loss after 8 epochs: 0.0010419826566328992
+train loss after 9 epochs: 0.0009140042755062314
+val loss after 9 epochs: 0.0010126905284269015
+train loss after 10 epochs: 0.0008964632031554356
+val loss after 10 epochs: 0.0017231338380195667
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 10,batchSize: 64,lr: 0.1
+train loss after 1 epochs: 0.04015839917182922
+val loss after 1 epochs: 0.0361874908208847
+train loss after 2 epochs: 0.03613652433872223
+val loss after 2 epochs: 0.03618950538635254
+train loss after 3 epochs: 0.03611705881118774
+val loss after 3 epochs: 0.03633654623031616
+train loss after 4 epochs: 0.03614476753234863
+val loss after 4 epochs: 0.036318102192878725
+train loss after 5 epochs: 0.036152186942100525
+val loss after 5 epochs: 0.036218484258651734
+train loss after 6 epochs: 0.03612576114654541
+val loss after 6 epochs: 0.03627939112186432
+train loss after 7 epochs: 0.03613239386081696
+val loss after 7 epochs: 0.036257328486442565
+train loss after 8 epochs: 0.036131834182739256
+val loss after 8 epochs: 0.036194713473320005
+train loss after 9 epochs: 0.0361317580127716
+val loss after 9 epochs: 0.03627838580608368
+train loss after 10 epochs: 0.0361253751707077
+val loss after 10 epochs: 0.03629957141876221
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 20,batchSize: 4,lr: 0.0001
+train loss after 1 epochs: 0.07778538016129474
+val loss after 1 epochs: 0.026661472542066987
+train loss after 2 epochs: 0.02399791819386384
+val loss after 2 epochs: 0.019453312174160055
+train loss after 3 epochs: 0.017425227292424687
+val loss after 3 epochs: 0.01565108282615165
+train loss after 4 epochs: 0.014029194594858005
+val loss after 4 epochs: 0.013428950534041997
+train loss after 5 epochs: 0.011711329231763523
+val loss after 5 epochs: 0.01403158988165211
+train loss after 6 epochs: 0.010010154432903833
+val loss after 6 epochs: 0.011187608185020207
+train loss after 7 epochs: 0.008627423883460343
+val loss after 7 epochs: 0.010023005767859831
+train loss after 8 epochs: 0.0073985487388774866
+val loss after 8 epochs: 0.009682892034242866
+train loss after 9 epochs: 0.006433222044227305
+val loss after 9 epochs: 0.007605133255044363
+train loss after 10 epochs: 0.0057643893667549155
+val loss after 10 epochs: 0.00896028755351621
+train loss after 11 epochs: 0.005026088784715974
+val loss after 11 epochs: 0.010213502074582125
+train loss after 12 epochs: 0.004635376975666893
+val loss after 12 epochs: 0.007717433927007619
+train loss after 13 epochs: 0.004033834012641314
+val loss after 13 epochs: 0.008678013762519726
+train loss after 14 epochs: 0.0035926625262110916
+val loss after 14 epochs: 0.009727733553213727
+train loss after 15 epochs: 0.003215559247264672
+val loss after 15 epochs: 0.008236036810841575
+train loss after 16 epochs: 0.0029135416549359713
+val loss after 16 epochs: 0.00961336103162519
+train loss after 17 epochs: 0.002657144393029464
+val loss after 17 epochs: 0.00778261027504663
+train loss after 18 epochs: 0.002261310123157218
+val loss after 18 epochs: 0.0102666318088664
+train loss after 19 epochs: 0.0021672142771131412
+val loss after 19 epochs: 0.008926797319810678
+train loss after 20 epochs: 0.0018340903061805256
+val loss after 20 epochs: 0.00857808540637792
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 4,lr: 0.001
+train loss after 1 epochs: 0.03332838180389286
+val loss after 1 epochs: 0.012706168092289227
+train loss after 2 epochs: 0.012862062567110973
+val loss after 2 epochs: 0.012010265099516592
+train loss after 3 epochs: 0.009795761028348067
+val loss after 3 epochs: 0.012279397374148135
+train loss after 4 epochs: 0.007357194259801866
+val loss after 4 epochs: 0.01106745007385274
+train loss after 5 epochs: 0.006293598290017281
+val loss after 5 epochs: 0.00991851209457317
+train loss after 6 epochs: 0.005383507213248545
+val loss after 6 epochs: 0.009349521608290579
+train loss after 7 epochs: 0.004666031886155148
+val loss after 7 epochs: 0.01064598610274777
+train loss after 8 epochs: 0.004197511272805319
+val loss after 8 epochs: 0.00999724681992567
+train loss after 9 epochs: 0.004030151709860155
+val loss after 9 epochs: 0.010581193725407577
+train loss after 10 epochs: 0.004352687243191211
+val loss after 10 epochs: 0.016075309811244356
+train loss after 11 epochs: 0.003655798582320055
+val loss after 11 epochs: 0.01625371896119979
+train loss after 12 epochs: 0.003707647141366572
+val loss after 12 epochs: 0.010907390365934232
+train loss after 13 epochs: 0.003492532418965427
+val loss after 13 epochs: 0.012053905756016354
+train loss after 14 epochs: 0.0035159853016517007
+val loss after 14 epochs: 0.01464577795477442
+train loss after 15 epochs: 0.003395609142103185
+val loss after 15 epochs: 0.012329367781952118
+train loss after 16 epochs: 0.0031249397080838725
+val loss after 16 epochs: 0.01732689565682779
+train loss after 17 epochs: 0.003599959682783211
+val loss after 17 epochs: 0.015046282925995066
+train loss after 18 epochs: 0.003857013307628032
+val loss after 18 epochs: 0.02171293356864701
+train loss after 19 epochs: 0.003872144461697187
+val loss after 19 epochs: 0.015732556217060666
+train loss after 20 epochs: 0.0037060511375782714
+val loss after 20 epochs: 0.017564920319664723
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 4,lr: 0.01
+train loss after 1 epochs: 0.5762924918818474
+val loss after 1 epochs: 0.5764677260637283
+train loss after 2 epochs: 0.5762322361660004
+val loss after 2 epochs: 0.5763134657621384
+train loss after 3 epochs: 0.5762950724029541
+val loss after 3 epochs: 0.575845625257492
+train loss after 4 epochs: 0.5763169375467301
+val loss after 4 epochs: 0.5760968891620636
+train loss after 5 epochs: 0.5763099529600143
+val loss after 5 epochs: 0.5760978864908218
+train loss after 6 epochs: 0.5762827040672303
+val loss after 6 epochs: 0.5764345039129257
+train loss after 7 epochs: 0.5762009357786179
+val loss after 7 epochs: 0.5758596793174744
+train loss after 8 epochs: 0.5762755128479004
+val loss after 8 epochs: 0.5767930817127228
+train loss after 9 epochs: 0.5762597594499588
+val loss after 9 epochs: 0.5760103052139283
+train loss after 10 epochs: 0.576194753727913
+val loss after 10 epochs: 0.5762431619644165
+train loss after 11 epochs: 0.5762638391447067
+val loss after 11 epochs: 0.5759279889822007
+train loss after 12 epochs: 0.5762477728176117
+val loss after 12 epochs: 0.5755540129899979
+train loss after 13 epochs: 0.5761436115121842
+val loss after 13 epochs: 0.5766409616708755
+train loss after 14 epochs: 0.5761885776519775
+val loss after 14 epochs: 0.5769332141160965
+train loss after 15 epochs: 0.5762928843212127
+val loss after 15 epochs: 0.5765318553209304
+train loss after 16 epochs: 0.5762544176340103
+val loss after 16 epochs: 0.5770728922128677
+train loss after 17 epochs: 0.5763432443428039
+val loss after 17 epochs: 0.5761474883317947
+train loss after 18 epochs: 0.5763511051225663
+val loss after 18 epochs: 0.5761904662847519
+train loss after 19 epochs: 0.5762621211910248
+val loss after 19 epochs: 0.5762150024652481
+train loss after 20 epochs: 0.5762483231592178
+val loss after 20 epochs: 0.5762084949970245
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 20,batchSize: 4,lr: 0.1
+train loss after 1 epochs: 0.5877503893780708
+val loss after 1 epochs: 0.5810722779750824
+train loss after 2 epochs: 0.5847125661468506
+val loss after 2 epochs: 0.5821021370649337
+train loss after 3 epochs: 0.5848320740485191
+val loss after 3 epochs: 0.5784273239135742
+train loss after 4 epochs: 0.5846254650521279
+val loss after 4 epochs: 0.5850545540690422
+train loss after 5 epochs: 0.5848572524762153
+val loss after 5 epochs: 0.5893317875862122
+train loss after 6 epochs: 0.5851477658748627
+val loss after 6 epochs: 0.5843156046032906
+train loss after 7 epochs: 0.5846615265488625
+val loss after 7 epochs: 0.5835165935754776
+train loss after 8 epochs: 0.5846323787617683
+val loss after 8 epochs: 0.5805741555213928
+train loss after 9 epochs: 0.5847723763084411
+val loss after 9 epochs: 0.5846741279125214
+train loss after 10 epochs: 0.584604844596386
+val loss after 10 epochs: 0.5823519824028015
+train loss after 11 epochs: 0.5851222440719605
+val loss after 11 epochs: 0.5808428416132927
+train loss after 12 epochs: 0.5844446066474914
+val loss after 12 epochs: 0.5857026019215584
+train loss after 13 epochs: 0.5843881682109833
+val loss after 13 epochs: 0.5845790190815926
+train loss after 14 epochs: 0.5845618212652206
+val loss after 14 epochs: 0.5859867769241333
+train loss after 15 epochs: 0.584599423148632
+val loss after 15 epochs: 0.5796247448444366
+train loss after 16 epochs: 0.584730912322998
+val loss after 16 epochs: 0.5994428110599518
+train loss after 17 epochs: 0.584364833381176
+val loss after 17 epochs: 0.5937767397999764
+train loss after 18 epochs: 0.5841144003462792
+val loss after 18 epochs: 0.5810422009468078
+train loss after 19 epochs: 0.5846433577346801
+val loss after 19 epochs: 0.5845009444594383
+train loss after 20 epochs: 0.5846160074853897
+val loss after 20 epochs: 0.5888618327856063
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 20,batchSize: 8,lr: 0.0001
+train loss after 1 epochs: 0.048568714029176625
+val loss after 1 epochs: 0.018839619140070863
+train loss after 2 epochs: 0.014469355845705722
+val loss after 2 epochs: 0.010878937435516855
+train loss after 3 epochs: 0.01075312609856177
+val loss after 3 epochs: 0.00901361822430481
+train loss after 4 epochs: 0.008681459562650852
+val loss after 4 epochs: 0.00782305820225447
+train loss after 5 epochs: 0.007331152846296536
+val loss after 5 epochs: 0.006057402273479238
+train loss after 6 epochs: 0.006318552292454333
+val loss after 6 epochs: 0.0070052463753097986
+train loss after 7 epochs: 0.0056112240838859
+val loss after 7 epochs: 0.0065601342055417265
+train loss after 8 epochs: 0.0050494345616084865
+val loss after 8 epochs: 0.006068706639251468
+train loss after 9 epochs: 0.004563896620602927
+val loss after 9 epochs: 0.0052327288725235125
+train loss after 10 epochs: 0.003969840108336189
+val loss after 10 epochs: 0.006191944187299942
+train loss after 11 epochs: 0.003559583468367847
+val loss after 11 epochs: 0.004806361165008911
+train loss after 12 epochs: 0.0032162924747939315
+val loss after 12 epochs: 0.004396548732010638
+train loss after 13 epochs: 0.0029048689589523634
+val loss after 13 epochs: 0.004436082233953926
+train loss after 14 epochs: 0.0025380192438499718
+val loss after 14 epochs: 0.004276543383426656
+train loss after 15 epochs: 0.0024196044681245475
+val loss after 15 epochs: 0.004857977137591854
+train loss after 16 epochs: 0.002117167589318239
+val loss after 16 epochs: 0.004407823720312234
+train loss after 17 epochs: 0.001995334721806907
+val loss after 17 epochs: 0.004799433669652751
+train loss after 18 epochs: 0.0017932028603354503
+val loss after 18 epochs: 0.004512541600033041
+train loss after 19 epochs: 0.0016457450810171766
+val loss after 19 epochs: 0.0042005382854045075
+train loss after 20 epochs: 0.001445362200731841
+val loss after 20 epochs: 0.005337875730289292
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 8,lr: 0.001
+train loss after 1 epochs: 0.018387190189102693
+val loss after 1 epochs: 0.007778690229196218
+train loss after 2 epochs: 0.006496768968580236
+val loss after 2 epochs: 0.004419736508895403
+train loss after 3 epochs: 0.004589054994967969
+val loss after 3 epochs: 0.0046620394029219595
+train loss after 4 epochs: 0.0034357211465720415
+val loss after 4 epochs: 0.004287857311182269
+train loss after 5 epochs: 0.0029554744650086406
+val loss after 5 epochs: 0.004094924230954784
+train loss after 6 epochs: 0.002340490203986564
+val loss after 6 epochs: 0.004052430599700863
+train loss after 7 epochs: 0.001935507914797218
+val loss after 7 epochs: 0.004998431166840896
+train loss after 8 epochs: 0.0018984856755667019
+val loss after 8 epochs: 0.005136696785730578
+train loss after 9 epochs: 0.00143168333572739
+val loss after 9 epochs: 0.00487379551334992
+train loss after 10 epochs: 0.0016566448754885689
+val loss after 10 epochs: 0.004406691708861849
+train loss after 11 epochs: 0.0014173813873089099
+val loss after 11 epochs: 0.005418900992367258
+train loss after 12 epochs: 0.0012778807257596344
+val loss after 12 epochs: 0.005479701994504491
+train loss after 13 epochs: 0.0011150048970809782
+val loss after 13 epochs: 0.005642405858850353
+train loss after 14 epochs: 0.0010362907947883365
+val loss after 14 epochs: 0.0067607524711384825
+train loss after 15 epochs: 0.0011157576553878319
+val loss after 15 epochs: 0.008576832732710137
+train loss after 16 epochs: 0.0010579874174795525
+val loss after 16 epochs: 0.006035858793071668
+train loss after 17 epochs: 0.0010353606685598075
+val loss after 17 epochs: 0.006479654915328598
+train loss after 18 epochs: 0.0008524174041660441
+val loss after 18 epochs: 0.007123714861010674
+train loss after 19 epochs: 0.0011608256055074674
+val loss after 19 epochs: 0.008663680496449513
+train loss after 20 epochs: 0.0008992769403762277
+val loss after 20 epochs: 0.009738146683799158
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 8,lr: 0.01
+train loss after 1 epochs: 0.28806100254058836
+val loss after 1 epochs: 0.28774613261222837
+train loss after 2 epochs: 0.2880426170063019
+val loss after 2 epochs: 0.2880094847917557
+train loss after 3 epochs: 0.28799553777694703
+val loss after 3 epochs: 0.28777928013801574
+train loss after 4 epochs: 0.28802093721866606
+val loss after 4 epochs: 0.28770996975898744
+train loss after 5 epochs: 0.2880036178970337
+val loss after 5 epochs: 0.2877516185998917
+train loss after 6 epochs: 0.28800394668102264
+val loss after 6 epochs: 0.28783552033901216
+train loss after 7 epochs: 0.2879875076150894
+val loss after 7 epochs: 0.2878345875501633
+train loss after 8 epochs: 0.28798152411937716
+val loss after 8 epochs: 0.2877197085142136
+train loss after 9 epochs: 0.2879589129114151
+val loss after 9 epochs: 0.2881844793319702
+train loss after 10 epochs: 0.28798520402908323
+val loss after 10 epochs: 0.2878758013963699
+train loss after 11 epochs: 0.2880132049417496
+val loss after 11 epochs: 0.2878890338897705
+train loss after 12 epochs: 0.28800814967632293
+val loss after 12 epochs: 0.2881955718755722
+train loss after 13 epochs: 0.2879538192987442
+val loss after 13 epochs: 0.28789658181667327
+train loss after 14 epochs: 0.2879971332216263
+val loss after 14 epochs: 0.2881252240657806
+train loss after 15 epochs: 0.2880387268447876
+val loss after 15 epochs: 0.2878142057418823
+train loss after 16 epochs: 0.28796959498882296
+val loss after 16 epochs: 0.2876844730377197
+train loss after 17 epochs: 0.2880147662591934
+val loss after 17 epochs: 0.2878481705904007
+train loss after 18 epochs: 0.28797907661914823
+val loss after 18 epochs: 0.2878191312074661
+train loss after 19 epochs: 0.2879882558822632
+val loss after 19 epochs: 0.2880290296316147
+train loss after 20 epochs: 0.28797906695365905
+val loss after 20 epochs: 0.2882874563217163
+Accuracy of the network on the 10000 test images: 9 %
+parameters:
+epoches: 20,batchSize: 8,lr: 0.1
+train loss after 1 epochs: 0.3023467387533188
+val loss after 1 epochs: 0.29023895547389983
+train loss after 2 epochs: 0.29102029904842375
+val loss after 2 epochs: 0.290615838265419
+train loss after 3 epochs: 0.2908818519115448
+val loss after 3 epochs: 0.2896642959356308
+train loss after 4 epochs: 0.29100042530059816
+val loss after 4 epochs: 0.2918224584817886
+train loss after 5 epochs: 0.29103122844696044
+val loss after 5 epochs: 0.29432054109573363
+train loss after 6 epochs: 0.2910452264213562
+val loss after 6 epochs: 0.2908553195476532
+train loss after 7 epochs: 0.29102610788583755
+val loss after 7 epochs: 0.2902538411140442
+train loss after 8 epochs: 0.2908251354980469
+val loss after 8 epochs: 0.290901318192482
+train loss after 9 epochs: 0.29081252999782564
+val loss after 9 epochs: 0.2892735111713409
+train loss after 10 epochs: 0.2908843852424622
+val loss after 10 epochs: 0.2900254705429077
+train loss after 11 epochs: 0.2909269699907303
+val loss after 11 epochs: 0.2893116496562958
+train loss after 12 epochs: 0.2908194145107269
+val loss after 12 epochs: 0.29333713548183443
+train loss after 13 epochs: 0.29098214683771134
+val loss after 13 epochs: 0.2908195231437683
+train loss after 14 epochs: 0.2909735316324234
+val loss after 14 epochs: 0.29401368070840833
+train loss after 15 epochs: 0.290933350315094
+val loss after 15 epochs: 0.2911000720500946
+train loss after 16 epochs: 0.2908114649128914
+val loss after 16 epochs: 0.29149376151561734
+train loss after 17 epochs: 0.2909004466485977
+val loss after 17 epochs: 0.289040722823143
+train loss after 18 epochs: 0.2910521185231209
+val loss after 18 epochs: 0.29203883638381956
+train loss after 19 epochs: 0.29067778473615646
+val loss after 19 epochs: 0.29194030301570895
+train loss after 20 epochs: 0.2908450453352928
+val loss after 20 epochs: 0.29054265398979184
+Accuracy of the network on the 10000 test images: 11 %
+parameters:
+epoches: 20,batchSize: 16,lr: 0.0001
+train loss after 1 epochs: 0.03160391716465354
+val loss after 1 epochs: 0.010629089765902608
+train loss after 2 epochs: 0.008826149656577036
+val loss after 2 epochs: 0.007910703359695617
+train loss after 3 epochs: 0.0063868675040756355
+val loss after 3 epochs: 0.0054377749240375126
+train loss after 4 epochs: 0.005204702365683042
+val loss after 4 epochs: 0.004748625300981803
+train loss after 5 epochs: 0.004420847984929569
+val loss after 5 epochs: 0.004638822600588901
+train loss after 6 epochs: 0.003910064009848283
+val loss after 6 epochs: 0.0036247900957154344
+train loss after 7 epochs: 0.003485060813736345
+val loss after 7 epochs: 0.003213844459023676
+train loss after 8 epochs: 0.0031095370982491296
+val loss after 8 epochs: 0.004396083561671548
+train loss after 9 epochs: 0.002877808496822254
+val loss after 9 epochs: 0.0029688618423242587
+train loss after 10 epochs: 0.0026489971789461562
+val loss after 10 epochs: 0.0025084864440519596
+train loss after 11 epochs: 0.002453733814607913
+val loss after 11 epochs: 0.0027370556403810043
+train loss after 12 epochs: 0.0022727808632995584
+val loss after 12 epochs: 0.0027136421173534473
+train loss after 13 epochs: 0.0020609508926793933
+val loss after 13 epochs: 0.002406497786141699
+train loss after 14 epochs: 0.0019462730283106794
+val loss after 14 epochs: 0.002699808801186373
+train loss after 15 epochs: 0.001778876438087882
+val loss after 15 epochs: 0.002420669650257332
+train loss after 16 epochs: 0.0016872133111810945
+val loss after 16 epochs: 0.0025334280939017842
+train loss after 17 epochs: 0.0015524209988745134
+val loss after 17 epochs: 0.0026162405150600533
+train loss after 18 epochs: 0.0014449074724887942
+val loss after 18 epochs: 0.0024492013951057743
+train loss after 19 epochs: 0.001381293107089332
+val loss after 19 epochs: 0.002375954489984906
+train loss after 20 epochs: 0.001256772222715772
+val loss after 20 epochs: 0.002568250171998443
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 16,lr: 0.001
+train loss after 1 epochs: 0.010568647795699652
+val loss after 1 epochs: 0.0037152019852248488
+train loss after 2 epochs: 0.0033422883162573273
+val loss after 2 epochs: 0.0024455131919497034
+train loss after 3 epochs: 0.0024216228217126628
+val loss after 3 epochs: 0.0022165919544502683
+train loss after 4 epochs: 0.0019077205681494798
+val loss after 4 epochs: 0.002355490019521312
+train loss after 5 epochs: 0.001559989907414997
+val loss after 5 epochs: 0.0018465312666112368
+train loss after 6 epochs: 0.0011620080285106088
+val loss after 6 epochs: 0.0018490747800284225
+train loss after 7 epochs: 0.0010892936511746932
+val loss after 7 epochs: 0.0025849712695841277
+train loss after 8 epochs: 0.0009023000458554756
+val loss after 8 epochs: 0.002186693572119452
+train loss after 9 epochs: 0.0007995982920358835
+val loss after 9 epochs: 0.002228036726545734
+train loss after 10 epochs: 0.0006297174016605351
+val loss after 10 epochs: 0.002653081682379879
+train loss after 11 epochs: 0.0006114036189293902
+val loss after 11 epochs: 0.0026792582202598346
+train loss after 12 epochs: 0.0005782815164281843
+val loss after 12 epochs: 0.0025491257512817974
+train loss after 13 epochs: 0.0004669892683272139
+val loss after 13 epochs: 0.003598970153490126
+train loss after 14 epochs: 0.0005807687671841624
+val loss after 14 epochs: 0.002509890837087496
+train loss after 15 epochs: 0.0003767221864434164
+val loss after 15 epochs: 0.0034282245896717052
+train loss after 16 epochs: 0.0005068037292752011
+val loss after 16 epochs: 0.00248256766813596
+train loss after 17 epochs: 0.00040556339146033887
+val loss after 17 epochs: 0.0030812588054462695
+train loss after 18 epochs: 0.0004221983411410597
+val loss after 18 epochs: 0.003287178648605031
+train loss after 19 epochs: 0.0004066643692082198
+val loss after 19 epochs: 0.0030694048665565864
+train loss after 20 epochs: 0.00034052071821010415
+val loss after 20 epochs: 0.0026413688260351086
+Accuracy of the network on the 10000 test images: 99 %
+parameters:
+epoches: 20,batchSize: 16,lr: 0.01
+train loss after 1 epochs: 0.011835678140021046
+val loss after 1 epochs: 0.008314684592580307
+train loss after 2 epochs: 0.008167167588524153
+val loss after 2 epochs: 0.006097790477226954
+train loss after 3 epochs: 0.007646816472135015
+val loss after 3 epochs: 0.0060533823492620285
+train loss after 4 epochs: 0.007133342163342727
+val loss after 4 epochs: 0.00553044767383617
+train loss after 5 epochs: 0.007251141807464073
+val loss after 5 epochs: 0.007706281695929647
+train loss after 6 epochs: 0.007279215076079672
+val loss after 6 epochs: 0.007465570499569731
+train loss after 7 epochs: 0.007524581073692625
+val loss after 7 epochs: 0.007430037066608929
+train loss after 8 epochs: 0.007206689216669775
+val loss after 8 epochs: 0.012486157518815889
+train loss after 9 epochs: 0.007023834368944571
+val loss after 9 epochs: 0.01345535708646421
+train loss after 10 epochs: 0.007134546363319659
+val loss after 10 epochs: 0.008729405955957191
+train loss after 11 epochs: 0.006930657300796847
+val loss after 11 epochs: 0.006505286180562871
+train loss after 12 epochs: 0.0071567616443120865
+val loss after 12 epochs: 0.00640285785591841
+train loss after 13 epochs: 0.0070967725921540475
+val loss after 13 epochs: 0.007937516018082078
+train loss after 14 epochs: 0.0072452236585243465
+val loss after 14 epochs: 0.005976080096960686
+train loss after 15 epochs: 0.007144736763901128
+val loss after 15 epochs: 0.006923999780564918
+train loss after 16 epochs: 0.007116862591314703
+val loss after 16 epochs: 0.005926786096328579
+train loss after 17 epochs: 0.0069738346590004765
+val loss after 17 epochs: 0.006250425292563159
+train loss after 18 epochs: 0.00703872295108974
+val loss after 18 epochs: 0.007529019784073171
+train loss after 19 epochs: 0.007266962598199443
+val loss after 19 epochs: 0.007779359518123783
+train loss after 20 epochs: 0.006855462386379784
+val loss after 20 epochs: 0.009915255790213882
+Accuracy of the network on the 10000 test images: 96 %
+parameters:
+epoches: 20,batchSize: 16,lr: 0.1
+train loss after 1 epochs: 0.1490776839208603
+val loss after 1 epochs: 0.14492994425296785
+train loss after 2 epochs: 0.14495183376312257
+val loss after 2 epochs: 0.14495198097229003
+train loss after 3 epochs: 0.14499336086273193
+val loss after 3 epochs: 0.14464289047718049
+train loss after 4 epochs: 0.14491844403743745
+val loss after 4 epochs: 0.14486904966831207
+train loss after 5 epochs: 0.14493783349990844
+val loss after 5 epochs: 0.14631598799228668
+train loss after 6 epochs: 0.14502342973709106
+val loss after 6 epochs: 0.14472454853057862
+train loss after 7 epochs: 0.14501279564380645
+val loss after 7 epochs: 0.14457513370513916
+train loss after 8 epochs: 0.1450068938446045
+val loss after 8 epochs: 0.1449299875974655
+train loss after 9 epochs: 0.14494090611934662
+val loss after 9 epochs: 0.14589953017234802
+train loss after 10 epochs: 0.14505250348567963
+val loss after 10 epochs: 0.1448759434700012
+train loss after 11 epochs: 0.1449910675048828
+val loss after 11 epochs: 0.14554681270122527
+train loss after 12 epochs: 0.14496844928264618
+val loss after 12 epochs: 0.14597853474617004
+train loss after 13 epochs: 0.14492989655971528
+val loss after 13 epochs: 0.14505837280750275
+train loss after 14 epochs: 0.14494792931556702
+val loss after 14 epochs: 0.14519460813999177
+train loss after 15 epochs: 0.14503722378730774
+val loss after 15 epochs: 0.14463499655723572
+train loss after 16 epochs: 0.14504393501758575
+val loss after 16 epochs: 0.1446123647212982
+train loss after 17 epochs: 0.14501817209243775
+val loss after 17 epochs: 0.14449730515480042
+train loss after 18 epochs: 0.14499045510292052
+val loss after 18 epochs: 0.14480128593444824
+train loss after 19 epochs: 0.1449827536582947
+val loss after 19 epochs: 0.14477030413150788
+train loss after 20 epochs: 0.14495238606929778
+val loss after 20 epochs: 0.1452471843957901
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 20,batchSize: 32,lr: 0.0001
+train loss after 1 epochs: 0.021478487278670074
+val loss after 1 epochs: 0.006681357597000897
+train loss after 2 epochs: 0.005499034831263125
+val loss after 2 epochs: 0.004247993874177337
+train loss after 3 epochs: 0.003958054877137765
+val loss after 3 epochs: 0.0035426014588214455
+train loss after 4 epochs: 0.0032112248944025485
+val loss after 4 epochs: 0.0029495779587887226
+train loss after 5 epochs: 0.002779218089166097
+val loss after 5 epochs: 0.0023869913243455814
+train loss after 6 epochs: 0.002455249414688442
+val loss after 6 epochs: 0.002149383095977828
+train loss after 7 epochs: 0.0022305658198869785
+val loss after 7 epochs: 0.001953697186813224
+train loss after 8 epochs: 0.0020234979548444973
+val loss after 8 epochs: 0.002316735929995775
+train loss after 9 epochs: 0.0018893313373660203
+val loss after 9 epochs: 0.001740782739268616
+train loss after 10 epochs: 0.001737976275505498
+val loss after 10 epochs: 0.0016440960162668488
+train loss after 11 epochs: 0.0016313445677561685
+val loss after 11 epochs: 0.0016723355098220054
+train loss after 12 epochs: 0.0015302384592837189
+val loss after 12 epochs: 0.0016607196615659632
+train loss after 13 epochs: 0.0014436984468798619
+val loss after 13 epochs: 0.001574434502015356
+train loss after 14 epochs: 0.0013634477018658073
+val loss after 14 epochs: 0.0015994805536873173
+train loss after 15 epochs: 0.0012878960448422004
+val loss after 15 epochs: 0.0014654994199590874
+train loss after 16 epochs: 0.0012327298140706261
+val loss after 16 epochs: 0.0013970689635549205
+train loss after 17 epochs: 0.0011644935620349134
+val loss after 17 epochs: 0.0013903673928114585
+train loss after 18 epochs: 0.0010847804854945571
+val loss after 18 epochs: 0.001498776548204478
+train loss after 19 epochs: 0.0010451253731167526
+val loss after 19 epochs: 0.0014066448442055844
+train loss after 20 epochs: 0.0009799576313047145
+val loss after 20 epochs: 0.0013131758495874238
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 32,lr: 0.001
+train loss after 1 epochs: 0.006853725772241596
+val loss after 1 epochs: 0.002246596290054731
+train loss after 2 epochs: 0.0018901042981061618
+val loss after 2 epochs: 0.0014809988351305947
+train loss after 3 epochs: 0.0013299757732110446
+val loss after 3 epochs: 0.0012156769337438164
+train loss after 4 epochs: 0.0010570228196019888
+val loss after 4 epochs: 0.0012027849462334416
+train loss after 5 epochs: 0.0008661483071576367
+val loss after 5 epochs: 0.001099643665862459
+train loss after 6 epochs: 0.000692194508723951
+val loss after 6 epochs: 0.001440380806390749
+train loss after 7 epochs: 0.0006285529079776825
+val loss after 7 epochs: 0.001174495008031954
+train loss after 8 epochs: 0.0004911120524432227
+val loss after 8 epochs: 0.0010887418687870194
+train loss after 9 epochs: 0.0004070797265400165
+val loss after 9 epochs: 0.0010968433381746763
+train loss after 10 epochs: 0.0004008665849677527
+val loss after 10 epochs: 0.0011368366252327634
+train loss after 11 epochs: 0.00036715328233155787
+val loss after 11 epochs: 0.0012934346432717121
+train loss after 12 epochs: 0.00024089482436884764
+val loss after 12 epochs: 0.0012360133301046006
+train loss after 13 epochs: 0.0003062727609546482
+val loss after 13 epochs: 0.0012826472581737563
+train loss after 14 epochs: 0.00022513520456584815
+val loss after 14 epochs: 0.0012882252969238352
+train loss after 15 epochs: 0.0002168453836115023
+val loss after 15 epochs: 0.001402732026123593
+train loss after 16 epochs: 0.00023065371112100422
+val loss after 16 epochs: 0.0012515479503703174
+train loss after 17 epochs: 0.00018667104816544886
+val loss after 17 epochs: 0.0014129630516105977
+train loss after 18 epochs: 0.00018490083833687932
+val loss after 18 epochs: 0.0019523970457708956
+train loss after 19 epochs: 0.00016913166705274905
+val loss after 19 epochs: 0.0014201120910489902
+train loss after 20 epochs: 0.00015165747968409374
+val loss after 20 epochs: 0.0013876057542997339
+Accuracy of the network on the 10000 test images: 99 %
+parameters:
+epoches: 20,batchSize: 32,lr: 0.01
+train loss after 1 epochs: 0.005010147565408988
+val loss after 1 epochs: 0.0026804978309126455
+train loss after 2 epochs: 0.0027373937664020923
+val loss after 2 epochs: 0.003057099567039404
+train loss after 3 epochs: 0.002683787538473589
+val loss after 3 epochs: 0.002060043335024966
+train loss after 4 epochs: 0.002596379197350361
+val loss after 4 epochs: 0.0024667325696278567
+train loss after 5 epochs: 0.0026318906717549
+val loss after 5 epochs: 0.0021786132746619844
+train loss after 6 epochs: 0.0024517378556159156
+val loss after 6 epochs: 0.0025628895508429195
+train loss after 7 epochs: 0.0024651751746403577
+val loss after 7 epochs: 0.0032517380153542037
+train loss after 8 epochs: 0.002612803053950411
+val loss after 8 epochs: 0.0030182427652587648
+train loss after 9 epochs: 0.002651450532820909
+val loss after 9 epochs: 0.0019804768253092334
+train loss after 10 epochs: 0.002304485249867357
+val loss after 10 epochs: 0.00301866089030691
+train loss after 11 epochs: 0.002565224486948414
+val loss after 11 epochs: 0.002866382211477321
+train loss after 12 epochs: 0.00244231947259329
+val loss after 12 epochs: 0.0028817933237281976
+train loss after 13 epochs: 0.0024075758385312066
+val loss after 13 epochs: 0.002950744230728651
+train loss after 14 epochs: 0.002356756557897488
+val loss after 14 epochs: 0.0026915178916575313
+train loss after 15 epochs: 0.002415080943783878
+val loss after 15 epochs: 0.003195091016434708
+train loss after 16 epochs: 0.002461400705572332
+val loss after 16 epochs: 0.0034863904679965346
+train loss after 17 epochs: 0.002454459840486629
+val loss after 17 epochs: 0.002941530708190112
+train loss after 18 epochs: 0.0024080442376608834
+val loss after 18 epochs: 0.0023626738096625558
+train loss after 19 epochs: 0.0023285593301555327
+val loss after 19 epochs: 0.0031495736300652965
+train loss after 20 epochs: 0.0025217921115687158
+val loss after 20 epochs: 0.0025941831187081335
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 20,batchSize: 32,lr: 0.1
+train loss after 1 epochs: 0.07663164662837982
+val loss after 1 epochs: 0.07215483388900756
+train loss after 2 epochs: 0.07233996335983277
+val loss after 2 epochs: 0.07286752707958222
+train loss after 3 epochs: 0.07234260177612305
+val loss after 3 epochs: 0.07272578794956207
+train loss after 4 epochs: 0.07234695051670074
+val loss after 4 epochs: 0.07288661918640137
+train loss after 5 epochs: 0.07234955085277557
+val loss after 5 epochs: 0.0722348078250885
+train loss after 6 epochs: 0.07233348187923432
+val loss after 6 epochs: 0.07256583383083344
+train loss after 7 epochs: 0.07235187353134155
+val loss after 7 epochs: 0.07239618573188782
+train loss after 8 epochs: 0.07233662894248963
+val loss after 8 epochs: 0.07228621482849121
+train loss after 9 epochs: 0.07231098708152771
+val loss after 9 epochs: 0.07263334722518922
+train loss after 10 epochs: 0.07233316229820251
+val loss after 10 epochs: 0.0726922943353653
+train loss after 11 epochs: 0.07234538592338562
+val loss after 11 epochs: 0.07223126556873322
+train loss after 12 epochs: 0.07233666212081909
+val loss after 12 epochs: 0.07239837591648102
+train loss after 13 epochs: 0.07234955327033997
+val loss after 13 epochs: 0.07272917127609253
+train loss after 14 epochs: 0.07233039038181305
+val loss after 14 epochs: 0.07227521681785584
+train loss after 15 epochs: 0.07232678726673127
+val loss after 15 epochs: 0.07246006784439087
+train loss after 16 epochs: 0.0723295550441742
+val loss after 16 epochs: 0.07244791810512542
+train loss after 17 epochs: 0.0723249717617035
+val loss after 17 epochs: 0.0724983705997467
+train loss after 18 epochs: 0.07235211564064026
+val loss after 18 epochs: 0.07254600903987884
+train loss after 19 epochs: 0.07234626528739929
+val loss after 19 epochs: 0.07237246189117431
+train loss after 20 epochs: 0.07235783581733704
+val loss after 20 epochs: 0.07246180148124695
+Accuracy of the network on the 10000 test images: 10 %
+parameters:
+epoches: 20,batchSize: 64,lr: 0.0001
+train loss after 1 epochs: 0.015187935945689679
+val loss after 1 epochs: 0.0047112770617008205
+train loss after 2 epochs: 0.003639846906363964
+val loss after 2 epochs: 0.0028067238019779325
+train loss after 3 epochs: 0.0025197381326556205
+val loss after 3 epochs: 0.0024836268642917277
+train loss after 4 epochs: 0.002008092598505318
+val loss after 4 epochs: 0.0017998623006045818
+train loss after 5 epochs: 0.0017065434512123466
+val loss after 5 epochs: 0.0015663522449322045
+train loss after 6 epochs: 0.0014950057426001877
+val loss after 6 epochs: 0.0012986090833786875
+train loss after 7 epochs: 0.0013466472946479916
+val loss after 7 epochs: 0.001229015704151243
+train loss after 8 epochs: 0.0012327776472363622
+val loss after 8 epochs: 0.0013159274665638804
+train loss after 9 epochs: 0.001140907340431586
+val loss after 9 epochs: 0.0010459980010055006
+train loss after 10 epochs: 0.0010699457051139324
+val loss after 10 epochs: 0.0010614443596918136
+train loss after 11 epochs: 0.0009991521760402248
+val loss after 11 epochs: 0.0010972147247288377
+train loss after 12 epochs: 0.0009402235518721863
+val loss after 12 epochs: 0.0008979672093177214
+train loss after 13 epochs: 0.0008985833769384772
+val loss after 13 epochs: 0.0009869674617424607
+train loss after 14 epochs: 0.000841266382294707
+val loss after 14 epochs: 0.0009412784281885251
+train loss after 15 epochs: 0.0008217891987110488
+val loss after 15 epochs: 0.0008656582965049892
+train loss after 16 epochs: 0.0007803705884842202
+val loss after 16 epochs: 0.0008406941160210409
+train loss after 17 epochs: 0.0007375215212441981
+val loss after 17 epochs: 0.0008090497804339975
+train loss after 18 epochs: 0.0007101622823439538
+val loss after 18 epochs: 0.0007898348437389359
+train loss after 19 epochs: 0.0006638514882558957
+val loss after 19 epochs: 0.0007677387909963727
+train loss after 20 epochs: 0.0006445591570157558
+val loss after 20 epochs: 0.0007784836925449781
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 64,lr: 0.001
+train loss after 1 epochs: 0.004511223738975823
+val loss after 1 epochs: 0.0011067340619396418
+train loss after 2 epochs: 0.0011466692528221756
+val loss after 2 epochs: 0.0010223650807514788
+train loss after 3 epochs: 0.0008151440864731557
+val loss after 3 epochs: 0.0006778987379628234
+train loss after 4 epochs: 0.0006393342065345496
+val loss after 4 epochs: 0.000845659088192042
+train loss after 5 epochs: 0.0005204300154565135
+val loss after 5 epochs: 0.0006313752904650755
+train loss after 6 epochs: 0.0004532877423230093
+val loss after 6 epochs: 0.0006931464568187949
+train loss after 7 epochs: 0.00037331402526062445
+val loss after 7 epochs: 0.0005359644333308097
+train loss after 8 epochs: 0.00032538126077706695
+val loss after 8 epochs: 0.0007350246936635812
+train loss after 9 epochs: 0.00026888690631021744
+val loss after 9 epochs: 0.0005378923033713363
+train loss after 10 epochs: 0.00024108565335976892
+val loss after 10 epochs: 0.0004692491561028874
+train loss after 11 epochs: 0.00022257282128357474
+val loss after 11 epochs: 0.0006059242668496154
+train loss after 12 epochs: 0.00017405733497472282
+val loss after 12 epochs: 0.0005610456071561202
+train loss after 13 epochs: 0.00015616583033954158
+val loss after 13 epochs: 0.0005924182156402822
+train loss after 14 epochs: 0.00018362336476384372
+val loss after 14 epochs: 0.0005576160267088199
+train loss after 15 epochs: 0.00014217675096471794
+val loss after 15 epochs: 0.0006532867225912923
+train loss after 16 epochs: 0.00012083446137515239
+val loss after 16 epochs: 0.0005139713204613827
+train loss after 17 epochs: 9.863590149433321e-05
+val loss after 17 epochs: 0.0005758263029989394
+train loss after 18 epochs: 0.00011781537891683001
+val loss after 18 epochs: 0.0006067167074340432
+train loss after 19 epochs: 7.947808582352763e-05
+val loss after 19 epochs: 0.0005848015399380614
+train loss after 20 epochs: 6.800202035339339e-05
+val loss after 20 epochs: 0.0006304444513737281
+Accuracy of the network on the 10000 test images: 98 %
+parameters:
+epoches: 20,batchSize: 64,lr: 0.01
+train loss after 1 epochs: 0.003114503732728772
+val loss after 1 epochs: 0.0010996510609053076
+train loss after 2 epochs: 0.0012515194195741788
+val loss after 2 epochs: 0.000978336192574352
+train loss after 3 epochs: 0.0010616554569476285
+val loss after 3 epochs: 0.001040199019096326
+train loss after 4 epochs: 0.0010728314425726422
+val loss after 4 epochs: 0.0013697167723672465
+train loss after 5 epochs: 0.001019403747448232
+val loss after 5 epochs: 0.0008817188858694863
+train loss after 6 epochs: 0.0009647429769526934
+val loss after 6 epochs: 0.0011834481974481604
+train loss after 7 epochs: 0.0009923799529514509
+val loss after 7 epochs: 0.0009229489645571448
+train loss after 8 epochs: 0.0009697581699761213
+val loss after 8 epochs: 0.0009625750424107536
+train loss after 9 epochs: 0.0009579088305492769
+val loss after 9 epochs: 0.0008877349008078454
+train loss after 10 epochs: 0.0008868861388281221
+val loss after 10 epochs: 0.0010416965078213253
+train loss after 11 epochs: 0.0009588776472946119
+val loss after 11 epochs: 0.001063311124802567
+train loss after 12 epochs: 0.0008748312224725669
+val loss after 12 epochs: 0.0009679902378848056
+train loss after 13 epochs: 0.0009088554179109633
+val loss after 13 epochs: 0.0015590625234297476
+train loss after 14 epochs: 0.000919780631569156
+val loss after 14 epochs: 0.0010885847482131794
+train loss after 15 epochs: 0.0008744173878259607
+val loss after 15 epochs: 0.0009508455250586849
+train loss after 16 epochs: 0.000888577954939683
+val loss after 16 epochs: 0.0011429708820709494
+train loss after 17 epochs: 0.000854193115340313
+val loss after 17 epochs: 0.0010084802339260933
+train loss after 18 epochs: 0.0008823624648303666
+val loss after 18 epochs: 0.001091312193298654
+train loss after 19 epochs: 0.0008075450349808671
+val loss after 19 epochs: 0.001002183575957315
+train loss after 20 epochs: 0.0008424556525732623
+val loss after 20 epochs: 0.0011141906663251575
+Accuracy of the network on the 10000 test images: 97 %
+parameters:
+epoches: 20,batchSize: 64,lr: 0.1
+train loss after 1 epochs: 0.040564708499908446
+val loss after 1 epochs: 0.036241102242469785
+train loss after 2 epochs: 0.03611964161872864
+val loss after 2 epochs: 0.03620380320549011
+train loss after 3 epochs: 0.036145457606315615
+val loss after 3 epochs: 0.03641709773540497
+train loss after 4 epochs: 0.036128643741607666
+val loss after 4 epochs: 0.03617097749710083
+train loss after 5 epochs: 0.036115442848205566
+val loss after 5 epochs: 0.03644759435653686
+train loss after 6 epochs: 0.036130038652420045
+val loss after 6 epochs: 0.0363232442855835
+train loss after 7 epochs: 0.03612576838970184
+val loss after 7 epochs: 0.03632404417991638
+train loss after 8 epochs: 0.03612830192565918
+val loss after 8 epochs: 0.03621489634513855
+train loss after 9 epochs: 0.03613837158679962
+val loss after 9 epochs: 0.03619743185043335
+train loss after 10 epochs: 0.03613977451324463
+val loss after 10 epochs: 0.036307197332382204
+train loss after 11 epochs: 0.03612863766670227
+val loss after 11 epochs: 0.03617329897880554
+train loss after 12 epochs: 0.03613189785957337
+val loss after 12 epochs: 0.036346615386009216
+train loss after 13 epochs: 0.03611786037445068
+val loss after 13 epochs: 0.03632108330726624
+train loss after 14 epochs: 0.03614929121494293
+val loss after 14 epochs: 0.03623388855457306
+train loss after 15 epochs: 0.03612421540737152
+val loss after 15 epochs: 0.03640213837623596
+train loss after 16 epochs: 0.03614953821659088
+val loss after 16 epochs: 0.03620706934928894
+train loss after 17 epochs: 0.03612806597709656
+val loss after 17 epochs: 0.03619987678527832
+train loss after 18 epochs: 0.036132168774604796
+val loss after 18 epochs: 0.03625796854496002
+train loss after 19 epochs: 0.03614177482128143
+val loss after 19 epochs: 0.036187486481666566
+train loss after 20 epochs: 0.03615442979812622
+val loss after 20 epochs: 0.036397659182548524
+Accuracy of the network on the 10000 test images: 11 %
+99
+[5, 4, 0.001]
