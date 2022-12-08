@@ -29,6 +29,9 @@ policy = transforms.Compose([
                         ])
 
 #hyperparameters
+#batch = [4,8,16,32,64]
+#learning_rates = [0.0001,0.001,0.01,0.1]
+#epoches = [2,5,10,20]
 batch = [4]
 learning_rates = [0.001]
 epoches = [5]
@@ -133,6 +136,6 @@ plt.plot(train_loss, label = "Training loss")
 plt.plot(val_losses, label = "Validation loss")
 plt.legend()
 plt.title("Average loss over epoches")
-plt.xlim("Epochs")
-plt.ylim("Average Loss")
+plt.xlabel("Epochs")
+plt.ylabel("Average Loss")
 plt.show()
