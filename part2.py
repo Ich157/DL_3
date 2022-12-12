@@ -4,6 +4,7 @@ import torchvision.transforms as transforms
 import torch.nn as nn
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
+from torchsummary import summary
 
 class Net(nn.Module):
     def __init__(self):
@@ -53,6 +54,8 @@ net = Net()
 PATH = './cifar_net.pth'
 torch.save(net.state_dict(), PATH)
 
+print("Summary")
+print(summary(net, (1, 28, 28)))
 
 ## Training of the network
 best_parameters =[0,0,0]
