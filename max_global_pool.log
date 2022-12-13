@@ -21,14 +21,22 @@ Params size (MB): 0.11
 Estimated Total Size (MB): 0.19
 ----------------------------------------------------------------
 None
-train loss after 1 epochs: 0.025056815198824117
-val loss after 1 epochs: 0.012666604398923665
-train loss after 2 epochs: 0.008322969395864424
-val loss after 2 epochs: 0.007480902483309479
-train loss after 3 epochs: 0.006024216998030293
-val loss after 3 epochs: 0.005925590178376751
-train loss after 4 epochs: 0.0047398727479545264
-val loss after 4 epochs: 0.006565752008936693
-train loss after 5 epochs: 0.0037437326460996105
-val loss after 5 epochs: 0.007043308583052749
+train loss after 1 epochs: 0.04608256354844074
+val loss after 1 epochs: 0.012819582547527443
+train loss after 2 epochs: 0.017027438517379936
+val loss after 2 epochs: 0.009486773817835324
+train loss after 3 epochs: 0.011982701346727133
+val loss after 3 epochs: 0.013318086601503786
+train loss after 4 epochs: 0.00985910511908223
+val loss after 4 epochs: 0.012146781191351926
+train loss after 5 epochs: 0.00916234792742238
+val loss after 5 epochs: 0.016003757097033725
+train loss after 6 epochs: 0.007498171580520311
+val loss after 6 epochs: 0.012280017262187463
+train loss after 7 epochs: 0.00644800070914012
+val loss after 7 epochs: 0.013728912091249606
+train loss after 8 epochs: 0.006322995868612469
+val loss after 8 epochs: 0.014607888561583604
 Accuracy of the network on the 10000 test images: 98 %
+
+Process finished with exit code 0

@@ -15,8 +15,8 @@ class Net(nn.Module):
         self.pool = nn.MaxPool2d(2, 2)
         self.conv2 = nn.Conv2d(16, 32, 3, stride=1, padding=1)
         self.conv3 = nn.Conv2d(32, self.N, 3, stride=1, padding=1)
-        #self.global_pooling = nn.AdaptiveAvgPool2d([1, 1])
-        self.global_pooling = nn.AdaptiveMaxPool2d([1,1])
+        self.global_pooling = nn.AdaptiveAvgPool2d([1, 1])
+        #self.global_pooling = nn.AdaptiveMaxPool2d([1,1])
         self.fc1 = nn.Linear(self.N, 10)
 
     def forward(self, x):
@@ -63,7 +63,7 @@ train_set_32, train_set_48, train_set_64 = split_into_shapes(train_set)
 val_set_32, val_set_48, val_set_64 = split_into_shapes(val_set)
 test_set_32, test_set_48, test_set_64 = split_into_shapes(test_images)
 
-batch_size = 8
+batch_size = 4
 
 trainloader_32 = torch.utils.data.DataLoader(train_set_32, batch_size=batch_size, shuffle=True, num_workers=2)
 trainloader_48 = torch.utils.data.DataLoader(train_set_48, batch_size=batch_size, shuffle=True, num_workers=2)
@@ -93,7 +93,7 @@ optimizer = torch.optim.Adam(net.parameters(), lr=0.001)
 train_loss = [0]
 val_losses = [0]
 
-for epoch in range(5):  # loop over the dataset multiple times
+for epoch in range(8):  # loop over the dataset multiple times
 
     running_loss = 0.0
     for loader in trainloader:
