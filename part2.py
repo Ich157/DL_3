@@ -4,6 +4,7 @@ import torchvision.transforms as transforms
 import torch.nn as nn
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
+from torchsummary import summary
 
 class Net(nn.Module):
     def __init__(self):
@@ -24,22 +25,28 @@ class Net(nn.Module):
 
 
 policy = transforms.Compose([
-                        transforms.RandomHorizontalFlip(p=0.5),
-                        transforms.ToTensor()
+                        transforms.RandomHorizontalFlip(p=0.25),
+                        transforms.RandomVerticalFlip(p=0.25),
+                        transforms.ToTensor(),
+                        transforms.RandomErasing(p=0.25)
                         ])
 
 #hyperparameters
 #batch = [4,8,16,32,64]
 #learning_rates = [0.0001,0.001,0.01,0.1]
 #epoches = [2,5,10,20]
+
+# best hyperparameters
 batch = [4]
 learning_rates = [0.001]
 epoches = [5]
 
 # load and split data into train and val set
-#train = torchvision.datasets.MNIST(root='./data', train=True,download=True, transform=policy)
-train = torchvision.datasets.MNIST(root='./data', train=True,download=True, transform=transforms.ToTensor())
+train = torchvision.datasets.MNIST(root='./data', train=True,download=True, transform=policy)
+#train = torchvision.datasets.MNIST(root='./data', train=True,download=True, transform=transforms.ToTensor())
 train_set, val_set = torch.utils.data.random_split(train, [50000, 10000])
+train = torchvision.datasets.MNIST(root='./data', train=True,download=True, transform=transforms.ToTensor())
+nix, val_set = torch.utils.data.random_split(train, [50000, 10000])
 test = torchvision.datasets.MNIST(root='./data', train=False,download=True, transform=transforms.ToTensor())
 
 net = Net()
@@ -47,6 +54,8 @@ net = Net()
 PATH = './cifar_net.pth'
 torch.save(net.state_dict(), PATH)
 
+print("Summary")
+print(summary(net, (1, 28, 28)))
 
 ## Training of the network
 best_parameters =[0,0,0]
@@ -68,24 +77,21 @@ for n_epochs in epoches:
             # optimizer
             optimizer = torch.optim.Adam(net.parameters(), lr=lr)
 
-            train_loss = []
-            val_losses = []
+            train_loss = [0]
+            val_losses = [0]
             for epoch in range(n_epochs):  # loop over the dataset multiple times
 
                 running_loss = 0.0
                 for i, data in enumerate(trainloader, 0):
                             # get the inputs; data is a list of [inputs, labels]
                             inputs, labels = data
-
                             # zero the parameter gradients
                             optimizer.zero_grad()
-
                             # forward + backward + optimize
                             outputs = net(inputs)
                             loss = criterion(outputs, labels)
                             loss.backward()
                             optimizer.step()
-
                             # print statistics
                             running_loss += loss.item()
                 print(f"train loss after {epoch+1} epochs: {running_loss/len(train_set)}")
@@ -138,4 +144,5 @@ plt.legend()
 plt.title("Average loss over epoches")
 plt.xlabel("Epochs")
 plt.ylabel("Average Loss")
+plt.xlim(1,5)
 plt.show()

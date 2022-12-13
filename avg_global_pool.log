@@ -1,0 +1,34 @@
+Summary
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1           [-1, 16, 16, 16]             448
+         MaxPool2d-2             [-1, 16, 8, 8]               0
+            Conv2d-3             [-1, 32, 8, 8]           4,640
+         MaxPool2d-4             [-1, 32, 4, 4]               0
+            Conv2d-5             [-1, 80, 4, 4]          23,120
+         MaxPool2d-6             [-1, 80, 2, 2]               0
+ AdaptiveAvgPool2d-7             [-1, 80, 1, 1]               0
+            Linear-8                   [-1, 10]             810
+================================================================
+Total params: 29,018
+Trainable params: 29,018
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 0.07
+Params size (MB): 0.11
+Estimated Total Size (MB): 0.19
+----------------------------------------------------------------
+None
+train loss after 1 epochs: 0.04637078789420193
+val loss after 1 epochs: 0.028678147980271677
+train loss after 2 epochs: 0.016321098953113337
+val loss after 2 epochs: 0.014938208742529081
+train loss after 3 epochs: 0.011819780800596995
+val loss after 3 epochs: 0.011607476352500354
+train loss after 4 epochs: 0.009135146523190819
+val loss after 4 epochs: 0.00965788236121048
+train loss after 5 epochs: 0.007406123197074086
+val loss after 5 epochs: 0.017121579420502717
+Accuracy of the network on the 10000 test images: 97 %
